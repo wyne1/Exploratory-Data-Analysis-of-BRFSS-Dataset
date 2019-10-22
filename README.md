@@ -1,3 +1,12 @@
+---
+title: "Exploring the BRFSS data"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    theme: spacelab
+---
+
 #### This project was the final graded project of the Introduction to Probability and Data course by Duke University on Coursera. The course is part of the specialization "Statistics with R". 
 #### There were 3 Research questions that we were supposed to come up with and perform EDA using the BRFSS dataset. The research questions I formulated are:
 
